@@ -1,2 +1,2 @@
 # tasks
-Experiments with Angular and Spring (Boot)
+Experiments with Angular & Spring (Boot)
